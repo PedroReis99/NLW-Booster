@@ -1,0 +1,2 @@
+para rodar a aplicação execute o comando: yarn run dev
+para criar o banco de dados: npm run knex:migrate
